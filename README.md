@@ -55,7 +55,7 @@ A second table of affiliations extends the cross-program awards data. Affiliatio
 
 Wikidata Q identifiers were selected as unique identifiers due to the large number of records about institutions and cities that already existed on Wikidata and due to the ease of contributing without extensive technical knowledge or support. The project contributors edited or created new Wikidata records as needed, and new records can easily be created in the future. Wikidata records for any given affiliation may also be helpful to future users of this data set. For example, the record for the National Gallery of Art (Q214867) features over 120 Wikidata statements relating to other identifiers, including Getty AAT and VIAF.
 
-Why ROR?
+### Why ROR?
 
 ROR (Research Organization Registry) identifiers are included in this dataset in order to expand the dataset’s interoperability with other linked open data repositories. However, many affiliations in the dataset are not associated with an organization represented in ROR. Further, ROR identifiers do not include independent scholars, who are recorded by city of residence in this dataset. For this reason, ROR identifiers are intended as a supplement but not a key facet.
 
