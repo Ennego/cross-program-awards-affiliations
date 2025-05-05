@@ -33,6 +33,7 @@ The primary data set contains information about programs, individuals, and their
 * The `subprogram` field can be adapted to the needs of a given research institute, and refers to specific tracks, with reference to the relevant career stage, early or senior.  
 * The `fellowship.title` field can be adapted to the needs of a given research institute, and refers to specific award titles.  
 * The `affiliation_QID` field refers to the second table, **Affiliations**, described below. With this data set, our solution for scholars unaffiliated with an institution at the time of award is to give a city of residence (noting the institution “Type” as “City of Residence”) with the accompanying QID from the **Affiliation** table.
+* The `multi.year_award` field is used for awards with a duration of more than one year and only pertains to scholars programs that offer such awards. The value `checked` means this award is more than one year.
 
 2. ### Affiliations
 
