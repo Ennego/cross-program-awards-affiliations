@@ -2,6 +2,8 @@
 
 ### Scholars Programs in Art History: Comparative Data Since 1961
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16612951.svg)](https://doi.org/10.5281/zenodo.16612951)
+
 ### Overview and acknowledgments
 
 Four major residential scholars programs in the history of art have aggregated data on past scholars who received fellowship awards. The compiled dataset presents public information about past awards and fellowships from The Clark in Williamstown, Massachusetts, the Getty Research Institute (GRI) in Los Angeles, California, the Smithsonian American Art Museum (SAAM), and the Center for Advanced Study in the Visual Arts (the Center, or CASVA) at the National Gallery of Art in Washington, District of Columbia.
