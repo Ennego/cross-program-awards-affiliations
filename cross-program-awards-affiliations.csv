@@ -148,6 +148,7 @@ Château de Blois,Institution,Q4055,,Castle of Blois,Blois,,France,"47.585501, 1
 "Chevy Chase, MD",City of Residence,Q5094454,,,Chevy Chase,MD,USA,"38.981944, -77.083333",38.981944, -77.083333
 "Chicago, IL",City of Residence,Q1297,,,Chicago,IL,USA,"41.85003,-87.65005",41.85003,-87.65005
 "Christchurch, New Zealand",City of Residence,Q79990,,,Christchurch,,New Zealand,"-43.531111,172.636111",-43.531111,172.636111
+Christiansborg Archaeological Heritage Project,Institution,Q138440603,,,Accra,,Ghana,"5.5504136509756306,-0.18597255244528027",5.5504136509756306,-0.18597255244528027
 Christiansborg Archeological Heritage Project,Institution,Q1082964,,,Accra,,Ghana,"5.5466,-0.1827",5.5466,-0.1827
 "Cigliano, Italy",City of Residence,Q24991,,,Cigliano,,Italy,"45.308356,8.021025",45.308356,8.021025
 Cincinnati Art Museum,Institution,Q2970522,https://ror.org/008hty861,,Cincinnati,OH,USA,"39.113889,-84.496944",39.113889,-84.496944
@@ -184,6 +185,7 @@ Consejo Nacional para la Cultura y las Artes (México),Institution,Q1127240,,Sec
 "Consejo Superior de Investigaciones Científicas, Madrid",Institution,Q1024362,https://ror.org/02gfc7t72,Spanish National Research Council,Madrid,,Spain,"40.44105, -3.68635",40.44105, -3.68635
 "Consejo Superior de Investigaciones Científicas, Santiago de Compostela",Institution,Q63759214,https://ror.org/03fz4fp45,Institute of Heritage Sciences ,Santiago de Compostela,,Spain,"42.875777777778,-8.5524722222222",42.875777777778,-8.5524722222222
 Constructor University,Institution,Q59114,https://ror.org/02yrs2n53,,Bremen,,Germany,"53.166667,8.65",53.166667,8.65
+Contemporary Conservation,Institution,Q138499057,,,New York,NY,USA,"40.750175, -74.004409",40.750175, -74.004409
 "Copenhagen, Denmark",City of Residence,Q1748,,,Copenhagen,,Denmark,"55.676111,12.568889",55.676111,12.568889
 Corcoran College of Art and Design,Institution,Q1132041,https://ror.org/01n673471,,"Washington, D.C.",DC,USA,"38.896278,-77.039705",38.896278,-77.039705
 "Cork, Ireland",City of Residence,Q36647,,,Cork,,Ireland,"51.9,-8.473056",51.9,-8.473056
@@ -197,6 +199,7 @@ Czech Technical University,Institution,Q1329478,https://ror.org/03kqpb082,,Pragu
 Danish Academy in Rome,Institution,Q11965412,https://ror.org/012pegt90,,Rome,,Italy,"41.916881, 12.477811",41.916881, 12.477811
 Dartmouth College,Institution,Q49116,https://ror.org/049s0rh22,,Hanover,NH,USA,"43.703333333333,-72.288333333333",43.703333333333,-72.288333333333
 De Montfort University,Institution,Q3551402,https://ror.org/0312pnr83,,Leicester,,United Kingdom,"52.62973,-1.13897",52.62973,-1.13897
+Debre Berhan University,Institution,Q18350858,https://ror.org/04e72vw61,,Debre Birhan,,Ethiopia,"9.657222,39.521389",9.657222,39.521389
 "Deccan College Postgraduate and Research Institute, Pune",Institution,Q5248851,https://ror.org/049k6hp62,,Pune,,India,"18.54945,73.873278",18.54945,73.873278
 DeCordova Museum and Sculpture Park,Institution,Q2019741,https://ror.org/051v0c125,,Lincoln,MA,USA,"42.4311,-71.3114",42.4311,-71.3114
 Dēmokriteio Panepistēmio Thrakēs,Institution,Q1121584,https://ror.org/03bfqnx40,Democritus University of Thrace,Thessaloniki,,Greece,"41.141666666666666,24.895",41.141666666666666,24.895
@@ -234,7 +237,7 @@ École nationale supérieure d'architecture de Marseille,Institution,Q3578180,
 École polytechnique fédérale de Lausanne,Institution,Q262760,https://ror.org/02s376052,Swiss Federal Institute of Technology in Lausanne,Lausanne,,Switzerland,"6.520278,6.565556",6.520278,6.565556
 École pratique des haute etudes,Institution,Q273631,https://ror.org/046b3cj80,Practical School of Advanced Studies,Paris,,France,"48.8311,2.34",48.8311,2.34
 "Eden Prairie, MN",City of Residence,Q985558,,,Eden Prairie,MN,USA,"44.854722,-93.470833",44.854722,-93.470833
-"Edinburgh, Scotland",City of Residence,Q23436,,,"Edinburgh, Scotland",,United Kingdom,"55.953333, -3.189167",55.953333, -3.189167
+"Edinburgh, Scotland",City of Residence,Q23436,,,Edinburgh,,United Kingdom,"55.953333, -3.189167",55.953333, -3.189167
 Eesti Kunstiakadeemia,Institution,Q1370318,https://ror.org/007530q75,Estonian Academy of Arts,Tallinn,,Estonia,"59.435034,24.758901",59.435034,24.758901
 "Eidgenössische Technische Hochschule, Zurich",Institution,Q11942,https://ror.org/05a28rw58,ETH Zurich,Zurich,,Switzerland,"47.37645,8.54785",47.37645,8.54785
 "Elkhorn, WI",City of Residence,Q1013673,,,Elkhorn,WI,USA,"42.672778,-88.540278",42.672778,-88.540278
@@ -296,6 +299,7 @@ Georgia Museum of Art,Institution,Q5547611,,,Athens,GA,USA,"3.941272,-83.369965"
 Georgia State University,Institution,Q1509333,https://ror.org/03qt6ba18,,Atlanta,GA,USA,"33.7528, -84.3861",33.7528, -84.3861
 "Georgian National Museum, Tbilisi",Institution,Q2586798,https://ror.org/05skxzn48,,Tbilisi,,Georgia,"41.696046,44.800255",41.696046,44.800255
 Getty Research Institute,Institution,Q11203476,https://ror.org/00qb4ds53,,Los Angeles,CA,USA,"34.076888888889,-118.476",34.076888888889,-118.476
+"Glasgow, Scotland",City of Residence,Q4093,,,Glasgow,,United Kingdom,"55.861111,-4.25",55.861111,-4.25
 Goethe-Universität Frankfurt am Main,Institution,Q50662,https://ror.org/04cvxnb49,Goethe University Frankfurt,Frankfurt,,Germany,"50.119444, 8.651389",50.119444, 8.651389
 "Goldsmiths, University of London",Institution,Q528231,https://ror.org/01khx4a30,,London,,United Kingdom,"51.474269, -0.035411",51.474269, -0.035411
 Gonzaga University,Institution,Q1537303,https://ror.org/03ze70h02,,Spokane,WA,USA,"47.66721,-117.40235",47.66721,-117.40235
@@ -333,6 +337,7 @@ Humboldt-Universität zu Berlin,Institution,Q152087,https://ror.org/01hcx6992,Hu
 "Hungarian Academy of Sciences, Budapest, Institute of Art History, Budapest",Institution,Q265058,https://ror.org/02ks8qq67,,Budapest,,Hungary,"47.5013,19.0463",47.5013,19.0463
 "Hungen, Germany",City of Residence,Q602629,,,Hungen,,Germany,"50.473080555555555,8.899611111111112",50.473080555555555,8.899611111111112
 "Hunter College and the Graduate Center, City University of New York",Institution,Q1446181,https://ror.org/00g2xk477,,New York,NY,USA,"40.768538,-73.964741",40.768538,-73.964741
+Hypourgeio Politismou kai Athlētismou,Institution,Q16331895,https://ror.org/02g13cw94,Hellenic Ministry of Culture and Sports,Athens,,Greece,"37.988733, 23.733251",37.988733, 23.733251
 Illinois Wesleyan University,Institution,Q2159219,https://ror.org/021aqk126,,Bloomington,IN,USA,"40.490556,-88.991389",40.490556,-88.991389
 "Ilmmünster, Germany",City of Residence,Q489250,,,Ilmmünster,,Germany,"48.483333333333,11.5",48.483333333333,11.5
 Indian Museum,Institution,Q1364900,,,Calcutta,,India,"22.558055555556,88.350833333333",22.558055555556,88.350833333333
@@ -423,6 +428,7 @@ Long Island University,Institution,Q1783603,https://ror.org/0324fzh77,,New York,
 Los Angeles County Museum of Art,Institution,Q1641836,https://ror.org/00f60z765,,Los Angeles,CA,USA,"34.06333333333333,-118.35916666666667",34.06333333333333,-118.35916666666667
 "Los Angeles, CA",City of Residence,Q65,,,Los Angeles,CA,USA,"34.05223,-118.24368",34.05223,-118.24368
 Loughborough University,Institution,Q1434547,https://ror.org/04vg4w365,,Loughborough,,United Kingdom,"52.768333333333,-1.2286111111111",52.768333333333,-1.2286111111111
+Louisiana State University,Institution,Q1521725,https://ror.org/05ect4e57,,Baton Rouge,LA,USA,"30.4145,-91.1783",30.4145,-91.1783
 Loyola College in Maryland,Institution,Q5399470,https://ror.org/01by1wp65,,Baltimore,MD,USA,"39.346389,-76.619167",39.346389,-76.619167
 Loyola Marymount University,Institution,Q1786078,https://ror.org/00xhj8c72,,Los Angeles,CA,USA,"33.97,-118.418",33.97,-118.418
 Ludwig-Maximilians-Universität,Institution,Q55044,https://ror.org/05591te55,Ludwig-Maximilian-University in Munich,Munich,,Germany,"48.150833333333,11.580277777778",48.150833333333,11.580277777778
@@ -511,6 +517,7 @@ National Gallery of Scotland,Institution,Q942713,,,Edinburgh,,United Kingdom,"55
 "National Gallery, London",Institution,Q180788,https://ror.org/043kfff89,,London,,United Kingdom,"51.508929,-0.128299",51.508929,-0.128299
 National Library of Medicine,Institution,Q611833,https://ror.org/0060t0j89,,Bethesda,MD,USA,"38.9951,-77.0993",38.9951,-77.0993
 "National Maritime Museum, Greenwich",Institution,Q1199924,https://ror.org/01f3njc68,,Greenwich,,United Kingdom,"51.4811,-0.005556",51.4811,-0.005556
+National Museum of African American History and Culture,Institution,Q3073495,https://ror.org/03y5vsd17,,Washington,DC,USA,"38.89111, -77.03278",38.89111, -77.03278
 National Museum of African Art,Institution,Q46812,,,Washington,DC,USA,"38.887972222222224,-77.0255",38.887972222222224,-77.0255
 National Museum of Asian Art,Institution,Q105749808,,,"Washington, D.C.",DC,USA,"38.8881,-77.027382",38.8881,-77.027382
 "National Portrait Gallery, London",Institution,Q238587,https://ror.org/04n11wj95,,London,,United Kingdom,"51.5094,-0.1281",51.5094,-0.1281
@@ -559,7 +566,7 @@ Ordrupgaardsamlingen,Institution,Q770918,,Ordrupgaard,Charlottenlund,,Denmark,"5
 Osaka University,Institution,Q651233,https://ror.org/035t8zc32,,Suita,,Japan,"34.819167,135.526667",34.819167,135.526667
 Osterreichische Galerie Belvedere,Institution,Q303139,https://ror.org/036mhzk54,Belvedere,Vienna,,Austria,"48.191389,16.380833",48.191389,16.380833
 "Oxford, England",City of Residence,Q34217,,,"Oxford, England",,United Kingdom,"51.751944, -1.257778",51.751944, -1.257778
-P'ohang-Kongwa-Taehakkyo,Institution,Q40018,https://ror.org/04xysgw12,Pohang University of Science and Technology,Pohang,,South Korea,"36.010883333333,129.32266944444",36.010883333333,129.32266944444
+P'ohang-Kongwa-Taehakkyo,Institution,Q40018,https://ror.org/04xysgw12,Pohang University of Science and Technology,Pohang,,Republic of Korea,"36.010883333333,129.32266944444",36.010883333333,129.32266944444
 Pabellón Mies van der Rohe,Institution,Q807915,,"German Pavilion, Barcelona",Barcelona,,Spain,"41.370556,2.15",41.370556,2.15
 Pace University,Institution,Q556098,https://ror.org/047p7y759,,New York,NY,USA,"40.7114,-74.005",40.7114,-74.005
 Paço Imperial,Institution,Q3361206,,Imperial Palace,Rio de Janeiro,,Brazil,"-22.90350833,-43.17423333",-22.90350833,-43.17423333
@@ -656,6 +663,7 @@ San Francisco Art Institute,Institution,Q586735,https://ror.org/036qcm975,,San F
 San Francisco Museum of Modern Art,Institution,Q913672,,,San Francisco,CA,USA,"7.7858,-122.401",7.7858,-122.401
 San Francisco State University,Institution,Q1256981,https://ror.org/05ykr0121,,San Francisco,CA,USA,"37.723333,-122.479722",37.723333,-122.479722
 San José State University,Institution,Q498526,https://ror.org/04qyvz380,,San Jose,CA,USA,"37.335555555556,-121.88111111111",37.335555555556,-121.88111111111
+"Santa Barbara, CA",City of Residence,Q159288,,,Santa Barbara,CA,USA,"34.425833,-119.714167",34.425833,-119.714167
 Santa Clara University,Institution,Q992830,https://ror.org/03ypqe447,,Santa Clara,CA,USA,"37.349167,-121.938056",37.349167,-121.938056
 "Sao Paolo, Brazil",City of Residence,Q174,,,Sao Paolo,,Brazil,"-23.550394, -46.633947",-23.550394, -46.633947
 Sarah Lawrence College,Institution,Q1051840,https://ror.org/04sxj4848,,Bronxville,NY,USA,"40.935124,-73.844326",40.935124,-73.844326
@@ -665,10 +673,11 @@ School of Visual Arts,Institution,Q1279835,https://ror.org/0437v2m88,,New York,N
 Schweizerisches Institut für Kunstwissenschaft,Institution,Q2256716,,Swiss Institute for Art Research,Zurich,,Switzerland,"47.362485,8.555264",47.362485,8.555264
 Science and Research Center of the Republic of Slovenia,Institution,Q15977604,https://ror.org/04zvj8c18,,Koper,,Slovenia,"46.047610, 14.504710",46.047610, 14.504710
 Scientific Analysis of Fine Art,Institution,Q117405686,,,New York,NY,USA,"40.764317899474996,-73.92362849774025",40.764317899474996,-73.92362849774025
-Scottish National Gallery of Modern Art,Institution,Q1889944,,,Edinburgh,,Scotland,"55.9506,-3.22746",55.9506,-3.22746
+Scottish National Gallery of Modern Art,Institution,Q1889944,,,Edinburgh,,United Kingdom,"55.9506,-3.22746",55.9506,-3.22746
 Scripps College,Institution,Q10664609,https://ror.org/00p55jd14,,Claremont,CA,USA,"34.103528, -117.710667",34.103528, -117.710667
 Scuola Normale Superiore di Pisa,Institution,Q672416,https://ror.org/03aydme10,Scuola Normale Superiore,Pisa,,Italy,"43.719611,10.400225",43.719611,10.400225
 "Seattle, WA",City of Residence,Q5083,,,Seattle,WA,USA,"47.605,-122.33",47.605,-122.33
+Seoul National University,Institution,Q39913,https://ror.org/04h9pn542,Sŏul Taehakkyo,Seoul,,Republic of Korea,"37.46,126.9525",37.46,126.9525
 Seton Hall University,Institution,Q585828,https://ror.org/007tn5k56,,South Orange,NJ,USA,"40.743144,-74.246635",40.743144,-74.246635
 Shandong Provincial Museum,Institution,Q4132844,https://ror.org/008m0sk32,Shandong Museum,Shandong,,China,"36.65885,117.09613333",36.65885,117.09613333
 Shumen University,Institution,Q1782652,https://ror.org/03yht3k11,,Shumen,,Bulgaria,"43.279915,26.946383",43.279915,26.946383
@@ -790,6 +799,7 @@ Universidad de La Habana,Institution,Q837320,https://ror.org/04204gr61,Universit
 "Universidad de Los Andes, Bogotá",Institution,Q1569421,https://ror.org/02mhbdp94,University of the Andes,Bogotá,,Colombia,"4.6012,-74.0657",4.6012,-74.0657
 Universidad de Murcia,Institution,Q1236345,https://ror.org/03p3aeb86,University of Murcia,Murcia,,Spain,"38.018306,-1.17",38.018306,-1.17
 Universidad de Navarra,Institution,Q926068,https://ror.org/02rxc7m23,University of Navarre,Pamplona,,Spain,"42.8014,-1.65972",42.8014,-1.65972
+"Universidad de Puerto Rico, Recinto de Río Piedras",Institution,Q7896167,https://ror.org/0453v4r20,"University of Puerto Rico, Río Piedras Campus",San Juan,PR,USA,"18.402778, -66.05",18.402778, -66.05
 Universidad de Santiago de Chile,Institution,Q1259453,https://ror.org/02ma57s91,University of Santiago,Santiago,,Chile,"-33.448942,-70.682766",-33.448942,-70.682766
 Universidad de Sevilla,Institution,Q1229996,https://ror.org/03yxnpp24,University of Seville,Seville,,Spain,"37.3807579,-5.9912307",37.3807579,-5.9912307
 Universidad Finis Terrae,Institution,Q1812621,https://ror.org/0225snd59,Finis Terrae University,Santiago,,Chile,"-33.436959,-70.60851",-33.436959,-70.60851
@@ -828,6 +838,7 @@ Università degli Studi di Perugia,Institution,Q748085,https://ror.org/00x27da85
 Università degli studi di Salerno,Institution,Q1633215,https://ror.org/0192m2k53,University of Salerno,Salerno,,Italy,"40.771111,14.790556",40.771111,14.790556
 Università degli Studi di Trento,Institution,Q930528,https://ror.org/05trd4x28,University of Trento,Trento,,Italy,"46.069426, 11.121117",46.069426, 11.121117
 Università degli Studi di Udine,Institution,Q2307935,https://ror.org/05ht0mh31,University of Udine,Udine,,Italy,"46.080833333333,13.211666666667",46.080833333333,13.211666666667
+Università degli Studi di Verona,Institution,Q2531629,https://ror.org/039bp8j42,,Verona,,Italy,"45.436667, 11.003611",45.436667, 11.003611
 Università degli Studi Roma Tre,Institution,Q2297486,https://ror.org/05vf0dg29,Roma Tre University,Rome,,Italy,"41.8625,12.478889",41.8625,12.478889
 Università del Salento,Institution,Q1230902,https://ror.org/03fc1k060,University of Salento,Salento,,Italy,"40.352777777777774,18.16638888888889",40.352777777777774,18.16638888888889
 Università di Bologna,Institution,Q131262,https://ror.org/01111rn36,University of Bologna,Bologna,,Italy,"44.493888888889,11.342777777778",44.493888888889,11.342777777778
@@ -883,6 +894,7 @@ Université de Lille 3,Institution,Q1141586,,University Lille 3,Lille,,France,"5
 Université de Louvain,Institution,Q378134,https://ror.org/02495e989,University of Louvain,Louvain-la-Neuve,,Belgium,"50.669687,4.615591",50.669687,4.615591
 Université de Lyon 3 – Jean Moulin,Institution,Q4027,https://ror.org/05b5c0584,Jean Moulin University - Lyon 3,Lyon,,France,"45.748031,4.860506",45.748031,4.860506
 Université de Montréal,Institution,Q392189,https://ror.org/0161xgx34,University of Montreal,Montréal,,Canada,"45.50414,-73.61433",45.50414,-73.61433
+Université de Namur,Institution,Q1391755,https://ror.org/03d1maw17,University of Namur,Namur,,Belgium,"50.466333,4.860361",50.466333,4.860361
 Université de Neuchâtel,Institution,Q541548,https://ror.org/00vasag41,University of Neuchâtel,Neuchatel,,Switzerland,"46.99387,6.93869",46.99387,6.93869
 Université de Ouagadougou,Institution,Q1076606,https://ror.org/00t5e2y66,University Joseph Ki-Zerbo,Ouagaougou,,Burkina Faso,"12.37735,-1.5009",12.37735,-1.5009
 Université de Paris III,Institution,Q571293,https://ror.org/03z6jp965,Sorbonne Nouvelle-Paris 3,Paris,,France,"48.844889,2.396989",48.844889,2.396989
@@ -958,6 +970,7 @@ University of Edinburgh,Institution,Q160302,https://ror.org/01nrxwf90,,Edinburgh
 University of Essex,Institution,Q1075104,https://ror.org/02nkf1q06,,Essex,,United Kingdom,"51.87845,0.94942",51.87845,0.94942
 University of Exeter,Institution,Q1414861,https://ror.org/03yghzc09,,Exeter,,United Kingdom,"50.736111111111114,-3.535",50.736111111111114,-3.535
 University of Florida,Institution,Q501758,https://ror.org/02y3ad647,,Gainesville,FL,USA,"29.64833,-82.34944",29.64833,-82.34944
+University of Georgia,Institution,Q761534,https://ror.org/00te3t702,,Athens,GA,USA,"33.955833, -83.374444",33.955833, -83.374444
 University of Glasgow,Institution,Q192775,https://ror.org/00vtgdb53,,Glasgow,,United Kingdom,"55.871944444444,-4.2875",55.871944444444,-4.2875
 University of Guelph,Institution,Q795988,https://ror.org/01r7awg59,,Guelph,ON,Canada,"43.533333,-80.223611",43.533333,-80.223611
 University of Hartford,Institution,Q747053,https://ror.org/034gcgd08,,Hartford,CT,USA,"41.8009, -72.714",41.8009, -72.714
