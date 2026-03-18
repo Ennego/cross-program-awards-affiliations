@@ -2,7 +2,7 @@
 
 ### Scholars Programs in Art History: Comparative Data Since 1961
 
-version 1: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16612951.svg)](https://doi.org/10.5281/zenodo.16612951)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16612951.svg)](https://doi.org/10.5281/zenodo.16612951)
 
 ### Overview and acknowledgments
 
