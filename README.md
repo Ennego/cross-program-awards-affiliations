@@ -68,5 +68,6 @@ Using the reconciliation tool in OpenRefine, ROR identifiers were reconciled wit
 
 The “Affiliations” table can be merged with the “Awards” table to populate institution information and ensure consistency across datasets. As an example, a data story created with Tableau by Nancy Um presents these comparative data across the four programs through their past scholars, while also serving as a representation of the changing scope of the field of art history. For these visualizations, a merging process was done computationally, using a “join()” function. Datasets were joined on the column `affiliation_QID.`After the datasets were combined and joined, scholar first and last names were combined, and then cleaned and clustered in OpenRefine, in order to minimize duplications. 
 
-In the future, contributions from other peer research programs and beyond 2024 may be added to extend this data set.
+In the future, contributions from other peer research programs and beyond 2024 may be added to extend this data set.  
+_Update_: 2025-2026 awards and affiliations were added March 17, 2026.
 
