@@ -24,7 +24,7 @@ Caitlin Woolsey (The Clark)
 
 ### Data Paper
 
-A 2025 research paper describing this dataset in context and with notes on its reuse potential written by Matthew J. Westerby, Lidia Ferrara, and Nancy Um was published in *Journal of Open Humanities Data*: "A Practical Join: Using Wikidata to Aggregate Awards and Affiliations Data from Residential Fellowship Programs in Art History": https://doi.org/10.5281/zenodo.16612950
+A 2025 research paper describing this dataset in context and with notes on its reuse potential written by Matthew J. Westerby, Lidia Ferrara, and Nancy Um was published in *Journal of Open Humanities Data*: ["A Practical Join: Using Wikidata to Aggregate Awards and Affiliations Data from Residential Fellowship Programs in Art History."](https://doi.org/10.5334/johd.429)
 
 ### How to use and extend this data set
 
